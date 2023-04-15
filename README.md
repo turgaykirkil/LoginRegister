@@ -32,7 +32,7 @@ https://github.com/turgaykirkil/LoginRegister
 
 ## Ekran Görüntüleri
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-04-15 at 17 13 45](https://user-images.githubusercontent.com/58723436/232230553-14e38f2e-739c-404f-9aa3-664cfdd13898.png)
+![alt text](image.jpg =250x250)![Simulator Screenshot - iPhone 14 Pro - 2023-04-15 at 17 13 45](https://user-images.githubusercontent.com/58723436/232230553-14e38f2e-739c-404f-9aa3-664cfdd13898.png)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-04-15 at 17 14 02](https://user-images.githubusercontent.com/58723436/232230565-4d0322a4-932d-4e20-b96a-214328c8e7d6.png)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-04-15 at 17 29 42](https://user-images.githubusercontent.com/58723436/232230626-1e042736-9535-4518-a400-93fe174797ce.png)
 
